@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiangyuan Zhang"
-  avatar           : "images/cover.jpeg"
+  avatar           : "cover.jpeg"
   bio              : "Research assistant @ UIUC"
   location         : "Urbana, IL"
   employer         :
