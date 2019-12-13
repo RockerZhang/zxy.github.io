@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **X. Zhang**, K. Zhang, E. Miehling, and T Başar.  "Non-Cooperative Inverse Reinforcement Learning".  In Advances in Neural Information Processing Systems (NeurIPS), Vancouver, Canada, Dec. 2019. [accepted; to appear][arXiv]
