@@ -12,7 +12,7 @@ I am a fourth-year undergraduate student in the Department of Electrical and Com
 
 My research interest lies in the intersection of control theory and reinforcement learning, especially in robust control, game theory, and multi-agent systems; with applications in legged/industrial robots.
 
-I am applying for Ph.D. programs in EE/CS for Fall 2020.
+**I am applying for Ph.D. programs in EE/CS for Fall 2020**.
 
 Recent News
 ======
