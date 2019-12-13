@@ -16,4 +16,7 @@ I am applying for Ph.D. programs in EE/CS for Fall 2020.
 
 Recent News
 ======
-1. Sept. 2019: Our paper accepted to NeurIPS 2019: Non-cooperative inverse reinforcement learning. This paper provides a new formalism for non-cooperative inverse RL, by modeling it as a zero-sum Markov game with one-sided incomplete information.
+* 12/2019: I have completed my internship at the CMU Biorobotics Lab.   
+* 09/2019: Our paper accepted to **NeurIPS** 2019: [Non-cooperative inverse reinforcement learning](https://arxiv.org/pdf/1911.04220.pdf). This paper provides a new formalism for non-cooperative inverse RL, by modeling it as a zero-sum Markov game with one-sided incomplete information.
+* 09/2019: Our new paper [State Estimation for Legged Robots Using Contact-Centric Leg Odometry](https://arxiv.org/pdf/1911.05176.pdf) has been posted on arXiv. This paper proposes a new state estimation algorithm that fuses contact status of each legs to improve estimation accuracy. 
+* 07/2019: I am attending **ACC** 2019 to present our poster at the Workshop on Challenges and Solutions for Legged Robotics.
