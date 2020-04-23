@@ -14,7 +14,7 @@ My research interest lies in the intersection of control theory and reinforcemen
 
 Recent News
 ======
-* 04/2020: A preprint of my Bachelor thesis: [H2 Linear Control with H-Infinity Robustness Guarantee: A Game Theoretic Approach](../_publications/Xiangyuan_thesis_final.pdf), is online.
+* 04/2020: A preprint of my Bachelor's thesis: [H2 Linear Control with H-Infinity Robustness Guarantee: A Game Theoretic Approach](../_publications/Xiangyuan_thesis_final.pdf), is online.
 * 12/2019: I have completed my internship at the CMU Biorobotics Lab.   
 * 09/2019: Our paper accepted to **NeurIPS** 2019: [Non-Cooperative Inverse Reinforcement Learning](https://arxiv.org/pdf/1911.04220.pdf). This paper provides a new formalism for non-cooperative inverse RL, by modeling it as a zero-sum Markov game with one-sided incomplete information.
 * 09/2019: Our new paper [State Estimation for Legged Robots Using Contact-Centric Leg Odometry](https://arxiv.org/pdf/1911.05176.pdf) has been posted on arXiv. This paper proposes a new state estimation algorithm for legged robots that fuses contact information to improve estimation accuracy. 
