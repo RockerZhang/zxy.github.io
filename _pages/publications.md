@@ -7,6 +7,7 @@ author_profile: true
 
 Journal Papers & Preprints
 ------
+*: Equal contribution or alphabetic ordering.
 * K. Zhang*, **X. Zhang***, B. Hu, and T. Başar. Derivative-Free Policy Optimization for a Class of Risk-Sensitive and $\mathcal{H}_{\infty}$-Robust Control Problems. Under Review, 2020+.
 * D. Hanley, A.S. Dantas de Oliveira, **X. Zhang**, D. Kim, Y. Wei, and T. Bretl. The Impact of Height on Indoor
 Positioning with Magnetic Fields. Under Review, 2020+.
