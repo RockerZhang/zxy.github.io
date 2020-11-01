@@ -14,5 +14,3 @@ My research interest lies in the intersection of control theory and reinforcemen
 
 Recent News
 ======
-* 05/2020: Graduated with a B.S. in computer engineering and started as a Ph.D. student in electrical engineering.
-* 04/2020: A preprint of my Bachelor's thesis: [H2 Linear Control with H-Infinity Robustness Guarantee: A Game Theoretic Approach](../_publications/Xiangyuan_thesis_final.pdf), is online.
