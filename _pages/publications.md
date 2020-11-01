@@ -8,7 +8,7 @@ author_profile: true
 Journal Papers & Preprints
 ------
 *: Equal contribution or alphabetic ordering.
-* K. Zhang*, **X. Zhang***, B. Hu, and T. Başar. Derivative-Free Policy Optimization for a Class of Risk-Sensitive and $\mathcal{H}_{\infty}$-Robust Control Problems. Under Review, 2020+.
+* K. Zhang*, **X. Zhang***, B. Hu, and T. Başar. Derivative-Free Policy Optimization for a Class of Risk-Sensitive and $`\mathcal{H}_{\infty}`$-Robust Control Problems. Under Review, 2020+.
 * D. Hanley, A.S. Dantas de Oliveira, **X. Zhang**, D. Kim, Y. Wei, and T. Bretl. The Impact of Height on Indoor
 Positioning with Magnetic Fields. Under Review, 2020+.
 * S. Yang, H. Kumar, Z. Gu, **X. Zhang**, M. Travers, and H. Choset. State Estimation for Legged Robots Using Contact-Centric Leg Odometry. arXiv preprint 1911.05176, 2019. [[arXiv]](https://arxiv.org/abs/1911.05176)
@@ -22,4 +22,4 @@ Conference Papers
 
 Dissertation & Thesis
 ------
-* **X. Zhang**. $\mathcal{H}_{2}$ Linear Control with $\mathcal{H}_{\infty}$ Robustness Guarantee: A Game Theoretic Approach. Bachelor's thesis, University of Illinois at Urbana-Champaign, Urbana, IL, 2020. [[Thesis]](../_publications/Xiangyuan_thesis_final.pdf)
+* **X. Zhang**. $`\mathcal{H}_{2}`$ Linear Control with $`\mathcal{H}_{\infty}`$ Robustness Guarantee: A Game Theoretic Approach. Bachelor's thesis, University of Illinois at Urbana-Champaign, Urbana, IL, 2020. [[Thesis]](../_publications/Xiangyuan_thesis_final.pdf)
