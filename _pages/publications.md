@@ -8,7 +8,7 @@ author_profile: true
 Journal Papers & Preprints
 ------
 *: Equal contribution or alphabetic ordering.
-* K. Zhang<sup>*</sup>, **X. Zhang**<sup>*</sup>, B. Hu, and T. Başar. Derivative-Free Policy Optimization for a Class of Risk-Sensitive and <img src="https://render.githubusercontent.com/render/math?math=H_{\infty}">-Robust Control Problems. Under Review, 2020+.
+* [K. Zhang]*, [**X. Zhang**]*, B. Hu, and T. Başar. Derivative-Free Policy Optimization for a Class of Risk-Sensitive and <img src="https://render.githubusercontent.com/render/math?math=H_{\infty}">-Robust Control Problems. Under Review, 2020+.
 * D. Hanley, A.S. Dantas de Oliveira, **X. Zhang**, D. Kim, Y. Wei, and T. Bretl. The Impact of Height on Indoor
 Positioning with Magnetic Fields. Under Review, 2020+.
 * S. Yang, H. Kumar, Z. Gu, **X. Zhang**, M. Travers, and H. Choset. State Estimation for Legged Robots Using Contact-Centric Leg Odometry. arXiv preprint 1911.05176, 2019. [[arXiv]](https://arxiv.org/abs/1911.05176)
