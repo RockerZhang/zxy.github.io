@@ -22,4 +22,4 @@ Conference Papers
 
 Dissertation & Thesis
 ------
-* **X. Zhang**. H2 Linear Control with H-Infinity Robustness Guarantee: A Game Theoretic Approach. Bachelor's thesis, University of Illinois at Urbana-Champaign, Urbana, IL, 2020. [[Thesis]](../_publications/Xiangyuan_thesis_final.pdf)
+* **X. Zhang**. $\mathcal{H}_{2}$ Linear Control with $\mathcal{H}_{\infty}$ Robustness Guarantee: A Game Theoretic Approach. Bachelor's thesis, University of Illinois at Urbana-Champaign, Urbana, IL, 2020. [[Thesis]](../_publications/Xiangyuan_thesis_final.pdf)
